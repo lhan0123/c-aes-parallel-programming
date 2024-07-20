@@ -4,7 +4,7 @@ This is the final project of Parallel Programming course (Fall 2021) at National
 
 # How to run
 
-We modify the algorithm based on [tiny-AES-c](https://github.com/kokke/tiny-AES-c/blob/master/unlicense.txt](https://github.com/kokke/tiny-AES-c.git) with three techniques pthread on single process, omp on single process, and mp1+omp on multiple processes. 
+We modify the algorithm based on [tiny-AES-c](https://github.com/kokke/tiny-AES-c.git) with three techniques pthread on single process, omp on single process, and mp1+omp on multiple processes. 
 
 **Configuration**
 
