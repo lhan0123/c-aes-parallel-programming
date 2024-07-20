@@ -1,6 +1,6 @@
 # Introduction
 
-This is the final project of Parall Programming course at National Tsing Hua University (NTHU). The goal is to parallelize cipher block chaining algorithm to achieve faster cipher speed.
+This is the final project of Parallel Programming course (Fall 2021) at National Tsing Hua University (NTHU). The goal is to parallelize the cipher block chaining algorithm to achieve faster cipher speed.
 
 # How to run
 
